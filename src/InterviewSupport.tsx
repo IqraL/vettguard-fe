@@ -5,14 +5,9 @@ export const InterviewSupport = () => {
   return (
     <div className="container">
       <p className="intro">
-        Don’t want to waste developers' time or just not enough time in an
-        interview for vetting all of the candidates' technical skills?
-      </p>
-      <p className="message">
-        We understand that, given the constraints of interview time, it can be
-        challenging to cover all technical skills extensively. To help bridge
-        this gap, we’re offering a solution to conduct thorough technical
-        interviews on your behalf.
+        Need a faster way to vet candidates’ technical skills thoroughly ? I
+        offer thorough, in-depth technical interviews to save you time and
+        effort.
       </p>
 
       <h3>Here’s how we can support:</h3>
